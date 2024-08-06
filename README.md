@@ -19,7 +19,7 @@ I am recognized for my team spirit, sense of responsibility, independence, and a
 PHOENIXX Web & Mobile Solutions | Quebec, Canada  
 _(Software house and IT consulting firm focused on the Quebec public sector, with around 100 consultants)_
 
-_Internal Projects_ 
+_Internal Projects_ \
 **Agile Coaching/ Functional Analysis** 
 - Coordinated and monitored the QA testing phase for the Staffin project, a Phoenixx HR solution; 
 - Facilitated Scrum events; 
@@ -29,7 +29,7 @@ _Internal Projects_
 - Configured Azure Boards for team development and collaboration; 
 - Assisted the team knowledge management on the wiki platform. 
 
-_Client: ministère de la Justice du Québec (MJQ):_  
+_Client: ministère de la Justice du Québec (MJQ):_ \
 **Project Management (Execution phase of a cloud solution for the MJQ legal cases management)**  
 - Supported the preparation of the deployment of the Legal Suite solution for a pilot user group (1st phase); 
 - Integrated security and infrastructure specialists into the project teams (configuration and conversion) and coordinated with the solution vendor; 
