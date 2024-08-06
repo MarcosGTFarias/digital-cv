@@ -20,7 +20,7 @@ PHOENIXX Web & Mobile Solutions | Quebec, Canada
 _(Software house and IT consulting firm focused on the Quebec public sector, with around 100 consultants)_
 
 _Internal Projects_ \
-**Agile Coaching/ Functional Analysis** 
+**Agile Coaching/ Functional Analysis** \
 - Coordinated and monitored the QA testing phase for the Staffin project, a Phoenixx HR solution; 
 - Facilitated Scrum events; 
 - Wrote user stories for the development of functionalities. 
