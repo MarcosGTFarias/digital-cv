@@ -3,12 +3,12 @@
 
 
 ## OBJECTIVE 
-------------------------------------------------------------------------------------------------------
+---
 Project Management, Program Management 
 
 
 ## SUMMARY 
-------------------------------------------------------------------------------------------------------
+---
 I am a seasoned Project Manager with over fifteen (15) years of experience in managing IT and engineering projects. 
 My academic qualifications include bachelor's degrees in Production Engineering and Mass Communication.I also hold specializations in Project Management (SCPM) and Business Management, as well as an Agile certification (PSM1). 
 My career has been built on leading projects in the aerospace sector, the naval industry, and the public sector. My experience encompasses project management and teams' coordination throughout all phases, from analysis and planning to final delivery and product demonstration. 
@@ -17,7 +17,7 @@ I am recognized for my team spirit, sense of responsibility, independence, and a
 
 
 ## WORK EXPERIENCE
-------------------------------------------------------------------------------------------------------
+---
 #### IT Project Manager, 04/2023 - Present 
 PHOENIXX Web & Mobile Solutions | Quebec, Canada  
 _(Software house and IT consulting firm focused on the Quebec public sector, with around 100 consultants)_
