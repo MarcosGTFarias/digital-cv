@@ -1,4 +1,4 @@
-# MARCOS GONÇALVES TELES DE FARIAS 
+# MARCOS G T DE FARIAS 
 +1 (418) ------- / marcos.teles@gmail.com / Quebec (Quebec) / https://www.linkedin.com/in/marcosteles
 
 
